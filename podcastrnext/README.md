@@ -6,16 +6,12 @@
   <!-- <a href="https://podcastrnext.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Podcastrnext</h1>
+<h1 align="center">Podcastrnext - NLW#5 - Trilha React</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/joaopmazzo/podcastrnext?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/joaopmazzo/podcastrnext?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaopmazzo/podcastrnext?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/joaopmazzo/podcastrnext?color=56BEB8">
+  [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/)
+  [![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jp.mazzo/)](https://www.instagram.com/jp.mazzo/)
+  [![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazzojp@gmail.com)](mailto:mazzojp@gmail.com)
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/podcastrnext?color=56BEB8" /> -->
 
