@@ -58,15 +58,16 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [next.js](https://nextjs.org/)
+- [React](https://pt-br.reactjs.org/)
+- [SCSS](https://sass-lang.com/)
+- [JSON server](https://github.com/joaopmazzo/NLW-5/tree/main/podcastrnext#rocket-technologies)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Node](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed.
+
 
 ## :checkered_flag: Starting ##
 
@@ -78,7 +79,10 @@ $ git clone https://github.com/joaopmazzo/podcastrnext
 $ cd podcastrnext
 
 # Install dependencies
-$ yarn
+$ yarn install
+
+# Run the fake API to get access to the podcast
+$ yarn server
 
 # Run the project
 $ yarn dev
