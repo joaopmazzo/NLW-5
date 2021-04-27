@@ -36,7 +36,7 @@
 
 ## :dart: About ##
 
-The Podcastrnext is a web aplication developed on the 5º edition of Next Level Week (NLW) ofered by [RocketSeat](https://rocketseat.com.br/) on the days 19 to 25 of April 2021.
+The Podcastr is a web aplication developed on the 5º edition of Next Level Week (NLW) ofered by [RocketSeat](https://rocketseat.com.br/) on the days 19 to 25 of April 2021.
 The project consist to listen podcasts that was archived on a memory archive called ```server.json```.
 A important point of this NLW is the new concepts that we learned, like, [Context], [SSG], [SSR], [contextAPI], [NextJs].
 
