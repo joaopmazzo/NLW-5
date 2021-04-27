@@ -54,8 +54,8 @@ The following tools were used in this project:
 - [SCSS](https://sass-lang.com/)
 - [JSON server](https://github.com/joaopmazzo/NLW-5/tree/main/podcastrnext#rocket-technologies)
 - Libs :
-  -[rc-slider](https://www.npmjs.com/package/rc-slider)
-  -[date-fns](https://date-fns.org/)
+ -[rc-slider](https://www.npmjs.com/package/rc-slider)
+ -[date-fns](https://date-fns.org/)
 
 ## :white_check_mark: Requirements ##
 
