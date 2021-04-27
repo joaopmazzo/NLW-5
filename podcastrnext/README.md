@@ -18,9 +18,11 @@
   <a href="https://github.com/joaopmazzo" target="_blank">Author</a>
 </p>
 
+<div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-zemazzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/)[![Instagram Badge](https://img.shields.io/badge/-jp.mazzo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jp.mazzo/)](https://www.instagram.com/jp.mazzo/)[![Gmail Badge](https://img.shields.io/badge/-mazzojp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazzojp@gmail.com)](mailto:mazzojp@gmail.com)
 
+</div>
 
 <!-- Status -->
 
