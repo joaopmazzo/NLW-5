@@ -6,27 +6,6 @@
   <!-- <a href="https://podcastrnext.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Podcastrnext - NLW#5 - Trilha React</h1>
-
-<p align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-zemazzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/) [![Instagram Badge](https://img.shields.io/badge/-jp.mazzo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jp.mazzo/)](https://www.instagram.com/jp.mazzo/) [![Gmail Badge](https://img.shields.io/badge/-mazzojp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazzojp@gmail.com)](mailto:mazzojp@gmail.com)
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/podcastrnext?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/podcastrnext?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/podcastrnext?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Podcastrnext 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
@@ -36,6 +15,19 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/joaopmazzo" target="_blank">Author</a>
 </p>
+
+<h1 align="center">Podcastrnext - NLW#5 - Trilha React</h1>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-zemazzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-mazzo-2ab6b21b7/)[![Instagram Badge](https://img.shields.io/badge/-jp.mazzo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jp.mazzo/)](https://www.instagram.com/jp.mazzo/)[![Gmail Badge](https://img.shields.io/badge/-mazzojp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazzojp@gmail.com)](mailto:mazzojp@gmail.com)
+
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Podcastrnext 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
 
 <br>
 
