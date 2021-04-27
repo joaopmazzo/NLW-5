@@ -24,16 +24,6 @@
 
 </div>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Podcastrnext 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<br>
-
 ## :dart: About ##
 
 The Podcastr is a web aplication developed on the 5º edition of Next Level Week (NLW) ofered by [RocketSeat](https://rocketseat.com.br/) on the days 19 to 25 of April 2021.
