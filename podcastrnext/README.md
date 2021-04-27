@@ -36,13 +36,13 @@
 
 ## :dart: About ##
 
-Describe your project
+The Podcastrnext is a web aplication developed on the 5º edition of Next Level Week (NLW) ofered by [RocketSeat](https://rocketseat.com.br/) on the days 19 to 25 of April 2021.
+The project consist to listen podcasts that was archived on a memory archive called ```server.json```.
+A important point of this NLW is the new concepts that we learned, like, [Context], [SSG], [SSR], [contextAPI], [NextJs].
 
-## :sparkles: Features ##
+## :sparkles: Preview ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+{{IMAGEM DO PROJETO AQUI}}
 
 ## :rocket: Technologies ##
 
@@ -53,6 +53,9 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [SCSS](https://sass-lang.com/)
 - [JSON server](https://github.com/joaopmazzo/NLW-5/tree/main/podcastrnext#rocket-technologies)
+- [LIBS:]
+  -[rc-slider](https://www.npmjs.com/package/rc-slider)
+  -[date-fns](https://date-fns.org/)
 
 ## :white_check_mark: Requirements ##
 
