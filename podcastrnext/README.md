@@ -53,7 +53,7 @@ The following tools were used in this project:
 - [React](https://pt-br.reactjs.org/)
 - [SCSS](https://sass-lang.com/)
 - [JSON server](https://github.com/joaopmazzo/NLW-5/tree/main/podcastrnext#rocket-technologies)
-- LIBS:
+- Libs :
   -[rc-slider](https://www.npmjs.com/package/rc-slider)
   -[date-fns](https://date-fns.org/)
 
