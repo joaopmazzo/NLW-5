@@ -6,7 +6,7 @@
   <!-- <a href="https://podcastrnext.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Podcastrnext - NLW#5 - Trilha React</h1>
+<h1 align="center">Podcastr - NLW#5 - Trilha React</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
