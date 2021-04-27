@@ -32,7 +32,11 @@ A important point of this NLW is the new concepts that we learned, like, [Contex
 
 ## :sparkles: Preview ##
 
-{{IMAGEM DO PROJETO AQUI}}
+<div align="center">
+  <img src="public/ProjectImages/preview-1.png">
+  <img src="public/ProjectImages/preview-2.png">
+  <img src="public/ProjectImages/preview-3.png">
+</div>
 
 ## :rocket: Technologies ##
 
